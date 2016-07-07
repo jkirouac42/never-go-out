@@ -1,36 +1,38 @@
 ﻿body {
     background-color: burlywood;
+    
 }
 main{
-    background-color:#edf1e2;
+    background-color:#edf1e2;    
+    margin-left:200px;
+    margin-right:200px;
     border:dashed;
-    margin-left:150px;
-    margin-right:150px;
 }
 
 h1{
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style:italic;
     text-align:center;
-    border:dashed;
+    border-bottom:dashed;
+    font-size:38px;
 }
 
 p{
     
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    font-size:24px;
-    
+    font-size:22px;   
 }
+
 ul
 {
-    
-list-style-type: none;
-text-align:center;
-font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-font-size: 18px;
-font-style:italic;
+    list-style-type: none;
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    font-style:italic;
 
 }
+
 li::first-letter {
     font-size: 30px;
 }
