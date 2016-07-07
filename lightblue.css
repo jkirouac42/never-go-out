@@ -1,0 +1,21 @@
+﻿body {
+    background-color: #2bdbf3
+}
+h1{
+    font-size: 64px;
+}
+p{
+    font-size: 26px;
+    font-family:Arial, Helvetica, sans-serif
+}
+
+ul
+{
+list-style-type: none;
+text-align:center;
+font-family:Arial;
+font-size: 18px;
+}
+li::first-letter{
+    font-size:30px
+}
